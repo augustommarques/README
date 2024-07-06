@@ -1,10 +1,6 @@
 # Olá, eu sou Augusto Marques!
 
-João Silva é um desenvolvedor apaixonado por tecnologia e inovação, sempre buscando novas maneiras de criar soluções eficientes e criativas. Com uma sólida formação em Python, JavaScript, HTML e CSS, João também possui vasta experiência com frameworks como React, Node.js e Django, o que lhe permite desenvolver tanto no front-end quanto no back-end com excelência.
-
-Além de suas habilidades técnicas, João é um exemplo de superação. Como pessoa com deficiência física devido à paralisia cerebral, ele enfrenta desafios diários com determinação e resiliência. Sua condição nunca foi um obstáculo para seu crescimento profissional; pelo contrário, serve como uma fonte de motivação para alcançar seus objetivos e inspirar outros a fazerem o mesmo.
-
-
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. 
 
 ## Projetos em Desenvolvimento
 
