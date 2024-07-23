@@ -1,7 +1,8 @@
 # Olá, eu sou Augusto Marques!
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. 
+Sou uma pessoa analítica e prática, com uma paixão por animes, música, cinema e séries. Nos meus momentos livres, gosto de jogar videogame para relaxar e me divertir. A minha família vem sempre em primeiro lugar, sendo uma fonte constante de apoio e inspiração para mim.
 
+Estou constantemente me atualizando sobre programação, buscando novas tecnologias e aprimorando minhas habilidades para me manter relevante e eficiente no campo. A combinação dessas paixões e prioridades molda minha abordagem à vida e ao trabalho, sempre equilibrando o lado pessoal com o profissional de maneira harmoniosa.
 ## Projetos em Desenvolvimento
 
 - [TabNews-clone](https://github.com/augustommarques/tabnews-clone): Repositório utilizado para o curso.dev.
