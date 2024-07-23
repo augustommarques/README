@@ -2,7 +2,7 @@
 
 Sou uma pessoa analítica e prática, com uma paixão por animes, música, cinema e séries. Nos meus momentos livres, gosto de jogar videogame para relaxar e me divertir. A minha família vem sempre em primeiro lugar, sendo uma fonte constante de apoio e inspiração para mim.
 
-Estou constantemente me atualizando sobre programação, buscando novas tecnologias e aprimorando minhas habilidades para me manter relevante e eficiente no campo. A combinação dessas paixões e prioridades molda minha abordagem à vida e ao trabalho, sempre equilibrando o lado pessoal com o profissional de maneira harmoniosa.
+Estou constantemente me atualizando sobre programação, buscando novas tecnologias e aprimorando minhas habilidades para me manter relevante e eficiente no campo. A combinação dessas paixões e prioridades molda minha abordagem à vida e ao trabalho, sempre equilibrando o lado pessoal com o profissional, fazendo assim da vida mais leve e prazersa!
 ## Projetos em Desenvolvimento
 
 - [TabNews-clone](https://github.com/augustommarques/tabnews-clone): Repositório utilizado para o curso.dev.
